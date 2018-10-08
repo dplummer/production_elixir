@@ -13,3 +13,5 @@ My preferred setup for a production Elixir application.
 1. Metrics reporting
 1. Health and status endpoints
 1. Deployed cluster setup (Kubernetes)
+
+© 2018 Donald Plummer
